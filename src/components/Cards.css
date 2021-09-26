@@ -1,0 +1,13 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.defaultMessage{
+  margin-top: 5%;
+}
+
+.main-container{
+  height: 85vh;
+}

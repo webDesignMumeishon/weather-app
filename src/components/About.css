@@ -1,0 +1,18 @@
+.local_container{
+    height: 50vh;
+}
+
+.local_container img{
+    height: 300px;
+}
+
+.text-about{
+    width: 60%;
+    margin: auto;
+    margin-top: 60px;
+    background-color: #ffffff66;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    border: solid 2px;
+}
